@@ -60,6 +60,7 @@ npm run dev
 
 Frontend runs on:
  http://localhost:5173
+ https://eurusys-contactplatform.netlify.app/
 
 > The frontend expects the backend URL from `VITE_API_BASE`.
 
