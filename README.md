@@ -46,7 +46,7 @@ npm run dev           # start API using nodemon
 ```
 
 Backend runs on:
-👉 http://localhost:4000
+ http://localhost:4000
 
 ---
 
@@ -59,7 +59,7 @@ npm run dev
 ```
 
 Frontend runs on:
-👉 http://localhost:5173
+ http://localhost:5173
 
 > The frontend expects the backend URL from `VITE_API_BASE`.
 
